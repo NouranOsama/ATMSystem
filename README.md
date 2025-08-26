@@ -304,7 +304,8 @@ Edit
     "cashCapacity": 10000
   }
 ]
-🔒 Security Considerations
+```
+##🔒 Security Considerations
 PIN Validation – Transactions require correct card PIN
 
 Transaction Validation – Checks balance, card, and ATM existence
