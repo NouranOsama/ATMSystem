@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Configuration Files
+appsettings.Development.json
+appsettings.*.json
+appsettings.json
+
+
+# Logs
+logs/
+*.log
+
+# Database / Secrets
+*.mdf
+*.ldf
+*.db
+*.sqlite
+.env
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.cache
+*.pdb
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# NuGet
+*.nupkg
+packages/
